@@ -1,0 +1,54 @@
+{
+  "name": "Brainheads #3",
+  "symbol": "BRHS",
+  "description": "20 unique nfts",
+  "seller_fee_basis_points": 1000,
+  "image": "3.png",
+  "external_url": "",
+  "edition": 3,
+  "collection": {
+    "name": "Brainheadsnft",
+    "family": "My nfts"
+  },
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "ETERNITY"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "BRAIN"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "SO CALLED TRIBE"
+    },
+    {
+      "trait_type": "EXPRESSION",
+      "value": "CACKLE"
+    },
+    {
+      "trait_type": "FLOATER",
+      "value": "MUSIC NOTE"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "HEART GLASSES"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "NGPNTb3okskmCEqyGcP2dfDgaRfp1Y5GoE7L9BR1xNi",
+        "share": 100
+      }
+    ]
+  }
+}
